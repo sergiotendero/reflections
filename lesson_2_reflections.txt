@@ -13,3 +13,7 @@ The stating area is an intermediate area between de working copy and the reposit
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I want to add some experimental feature or simply code than need to be separate temporaly.
+
+How do the diagrams help you visualize the branch structure?
+
+Sometimes it's good to make a diagram to see the global structure of the project and for knowing all the current changes than are under development.
