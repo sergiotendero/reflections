@@ -20,4 +20,8 @@ Sometimes it's good to make a diagram to see the global structure of the project
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-The result is a new branch which contains all the commits of both braches, so I can reach any commit. A problem is that maybe the commits apperear mixed and its more difficult to know what is the father of a commit through git log (it can be used git show).
+The result is a new branch which contains all the commits of both braches, so I can reach any commit. A problem is that maybe the commits apperear mixed and its more difficult to know what is the father of a commit through git log (it can be used git show)
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git’s automatic merging is faster and don't need any review, but there is some situations in which is necessary to review conflicts manually.
