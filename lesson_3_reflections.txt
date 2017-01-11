@@ -3,3 +3,12 @@ We want it in several situations, for example: for baking up my project or for s
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because I might want to test or show to anybody my changes before share trough the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+All of them creates a copy of a repository.
+
+Branches simply create a new label pointing the last commit of the active repository brach, and I can use it to develop new features that I wantn't to be in the original branch (usually master) yet.
+
+Clones, usually, create a new local repositoy from a remote, so I can edit de files from my pc to share later, or simply to make a local review.
+
+A fork creates a new remote repository apart from the original one, so I can do whatever I like without modifiying the original.
