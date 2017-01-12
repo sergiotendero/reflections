@@ -15,3 +15,6 @@ A fork creates a new remote repository apart from the original one, so I can do 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Its very useful to known if somebody has update the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can collaborate using only Git, but with GitHub we have the pull requests option to collaborate easier.
