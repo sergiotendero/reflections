@@ -18,3 +18,6 @@ Its very useful to known if somebody has update the remote repository.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I can collaborate using only Git, but with GitHub we have the pull requests option to collaborate easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Maybe when I don't own the master barnch and I want to suggest a change. In addition, creating a new branch allows to test and review the proposal by others without breaking the master. However working directly in master is faster and easier, but its riskier too.
