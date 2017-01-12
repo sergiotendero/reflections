@@ -12,3 +12,6 @@ Branches simply create a new label pointing the last commit of the active reposi
 Clones, usually, create a new local repositoy from a remote, so I can edit de files from my pc to share later, or simply to make a local review.
 
 A fork creates a new remote repository apart from the original one, so I can do whatever I like without modifiying the original.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Its very useful to known if somebody has update the remote repository.
